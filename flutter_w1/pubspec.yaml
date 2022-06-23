@@ -1,7 +1,7 @@
 name: flutter_w1
 description: packaging moyang supplier. flutter_w1 help watch connect ble, support quick method.
-version: 0.0.2
-homepage: https://github.com/oliverbuddy
+version: 0.0.3
+homepage: https://github.com/oliverbuddy/flutter_plugins
 
 environment:
   sdk: ">=2.17.3 <3.0.0"
